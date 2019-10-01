@@ -1,0 +1,13 @@
+{
+"companyName": "Siemens",
+"productName": "Unity Exploded View",
+"dataUrl": "337465091c9f70580b5dae230c818fa4.unityweb",
+"wasmCodeUrl": "4e17fce253cf963d3ddcf964fd3310eb.unityweb",
+"wasmFrameworkUrl": "fec0514f4739fb9e460dea9f4228644f.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#2B2B2B",
+"cacheControl": {"default": "must-revalidate"}
+}
